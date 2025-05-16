@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fff;
+    color: #333;
+    margin: 0;
+    padding: 0
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+section {
+    padding: 20;
+    margin: 10px auto;
+    max-width : 600px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0,113);
+}
+h2 {
+    color: #805fcc;
+    font-size: 24px;
+}   
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #eeeeee;
+   
+}
